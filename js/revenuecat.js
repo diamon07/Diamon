@@ -5,8 +5,8 @@
 
 [rewrite_local]
 
-^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$) url script-response-body https://raw.githubusercontent.com/diamon09/Module_IOS/refs/heads/main/js/revenuecat.js
-^https:\/\/api\.revenuecat\.com\/.+\/(receipts|subscribers) url script-request-header https://raw.githubusercontent.com/diamon09/Module_IOS/refs/heads/main/js/deleteHeader.js
+^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$) url script-response-body https://raw.githubusercontent.com/diamon07/Diamon/refs/heads/main/js/revenuecat.js
+^https:\/\/api\.revenuecat\.com\/.+\/(receipts|subscribers) url script-request-header https://raw.githubusercontent.com/diamon07/Diamon/refs/heads/main/js/deleteHeader.js
 
 [mitm]
 
