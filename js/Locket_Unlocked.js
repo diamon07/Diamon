@@ -51,7 +51,7 @@ if (ua.includes("Locket")) {
         'imageURL': "https://cdn.upanhlaylink.com/i/GSfYXmKd.png"
       }],
       'primary_button_title': "Done nhoa!",
-      'campaign': "locket_gold_welcome",
+      'campaign': "locket_gold_welcome_v3",
       'start_at': "2020-01-01T00:00:00",
       'end_at': "2099-12-31T23:59:59",
       'use_local_time_zone': true
